@@ -1,6 +1,6 @@
 [English]
 In addition to the default data collected as described in the following link:
-https://docs.unity.com/ugs/en-us/manual/analytics/manual/privacy-overview,
+https://docs.unity.com/ugs/en-us/manual/analytics/manual/privacy-overview
 we also collect the following information:
 
 Purpose of Collection:
