@@ -8,7 +8,7 @@ To analyze gameplay data in order to provide a better service.
 
 ✅ 1. Global Data
 Campaign mode progression
-
+Campaign mode ClearTime
 Infinite mode progression
 
 ✅ 2. Weapon Pick Summary
@@ -27,7 +27,7 @@ https://docs.unity.com/ugs/ko-kr/manual/analytics/manual/privacy-overview
 
 ✅ 1. 전체 진행 정보
 캠페인 모드 진행도
-
+캠페인 모드 클리어타임.
 무한 모드 진행도
 
 ✅ 2. 무기 획득 요약
